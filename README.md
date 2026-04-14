@@ -10,8 +10,5 @@ Danke für deine Geduld und viel Spass beim kleinen Schmunzeln zwischendurch.
 Die Webseite wird im Hintergrund aktiv weiterentwickelt.  
 Bestellungen und Anfragen nehmen wir selbstverständlich weiterhin gerne entgegen.
 
----
-
-## 🐥 Kleines Schmunzeln gefällig?
 
 ![Wachtel arbeitet](images/wachtel.png)
